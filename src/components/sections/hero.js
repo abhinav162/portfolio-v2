@@ -78,10 +78,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://github.com/abhinav162/drift-chat"
+      href="https://github.com/abhinav162/drift"
       target="_blank"
       rel="noreferrer">
-      Check out my projects!
+      Check out my recent project!
     </a>
   );
 
