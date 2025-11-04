@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Abhinav Aditya',
     description:
-      'Abhinav Aditya is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Abhinav Aditya is a software engineer with over 2 years of experience in end-to-end web development, specializing in creating user interfaces with React, Angular, and TypeScript.',
     siteUrl: 'https://abhinavaditya.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@abhinav162',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Abhinav Aditya',
+        short_name: 'Abhinav Aditya',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
