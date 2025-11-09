@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Drift Chat'
 cover: './drift-chat.png'
 github: 'https://github.com/abhinav162/drift'
@@ -12,6 +12,8 @@ tech:
   - Docker
   - nginx
   - TypeScript
+  - Chalk
+  - Inquirer.js
 ---
 
-A full-stack real-time chat platform with WebSocket-powered messaging, achieving sub-100ms latency for seamless user experience across web and CLI clients. Features a modular CLI client published to npm with over 1,000 downloads, including emoji autocomplete, terminal games, and automated update notifications. Deployed with Docker and nginx reverse proxy infrastructure supporting over 200 concurrent users in ephemeral chat rooms without requiring registration.
+A full-stack real-time chat platform with WebSocket-powered messaging, achieving sub-100ms latency for seamless user experience across web and CLI clients. Features a modular CLI client published to npm with over 1,000 downloads, including emoji autocomplete, terminal games, and automated update notifications.
